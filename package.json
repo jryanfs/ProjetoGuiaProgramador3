@@ -1,0 +1,23 @@
+{
+  "name": "conversor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jryanfs/ProjetoGuiaProgramador3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jryanfs/ProjetoGuiaProgramador3/issues"
+  },
+  "homepage": "https://github.com/jryanfs/ProjetoGuiaProgramador3#readme"
+}
